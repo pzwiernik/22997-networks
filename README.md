@@ -30,8 +30,13 @@ All classes take place in room **40.002** (UPF's Ciutadela campus).
 ### Suggested Reading
 The following books complement the material presented in the lecture.
 
-* (SB) C. P. Simon and L. Blume (1994) [Mathematics for Economists](https://www.academia.edu/download/48636981/Blume-Mathematics-for-Economists.pdf)
-* (WS) F. Werner and Y. N. Sotskov (2006) [Mathematics of Economics and Business](https://library.oapen.org/bitstream/handle/20.500.12657/102241/1/9781134319312.pdf)
+
+* (SK) Saoub, Karin R. (2017). A Tour Through Graph Theory. Springer.
+* (B) Barabási, A. L. (2016). Network Science. Cambridge University Press. [Available online](https://networksciencebook.com/)
+* (N) Newman, M. (2010). Networks: An Introduction. Oxford University Press.
+* (EK) Easley, D., & Kleinberg, J. (2010). Networks, Crowds, and Markets: Reasoning About a Highly Connected World. Cambridge University Press. [Available online](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
+* (M) Menczer, F. (2020). A First Course in Network Science. Cambridge University Press. [Available online](https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/)
+
 
 ***
 
