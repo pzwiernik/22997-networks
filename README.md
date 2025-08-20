@@ -1,9 +1,5 @@
 # 22997 - Networks, Crowds and Markets - Fall 2025
-![Course cover](course_cover.png)
-
-The goal of this course is to review the basic tools of Calculus and
-Linear Algebra that will be used in the Master programs in
-Economics and Finance.
+<img src="pics/cover.png" align="left" width="150"> This course introduces modern methods for multivariate data building also some theoretical foundations. The lecture is divided into five blocks: I. Foundations of Multivariate Analysis, II. Multivariate statistical Inference, III. Dimensionality Reduction Techniques, IV. Covariance matrix modelling and estimation, V. Methods for Tensors.
 
 ***
 
@@ -20,10 +16,15 @@ Economics and Finance.
 | Office hours | Tuesday 1-3pm (20.202) |
 
 
-### Lecture Time & Location:
+### Time & Location:
 
 
-All classes take place in room **40.002** (UPF's Ciutadela campus).
+Lectures: Monday 3-4:30pm (40.063) and Tuesday 3-4:30pm (40.063).
+
+Tutorials (group 1): 3-4:30pm (20.101)
+Tutorials (group 2): 4:30-6pm (20.101)
+
+There are six tutorial sessions, in weeks: 3,4,5,6,7,8. 
 
 ***
 
