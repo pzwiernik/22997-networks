@@ -45,13 +45,13 @@ The following books complement the material presented in the lecture.
 
 | Week | Topic  | Slides | Tutorials | Lectures date  | Timeline |
 | --- |  --- | --- | --- | --- | --- | 
-| 1 | Introduction,   | [slides1](./slides/slides_intro.pdf)  |  |  29/30 Jan| [syllabus]() |
-| 2 |  | | | 15 Jan | |
-| 3 | | | | 22 Jan |   |
-| 4 |    | |  | 29 Jan |  |
-| 5 |  | | | **midterm1**  | 5 Feb|  |
-| 6 | | | | 12 Feb|  |
-| 7 |  | | | 26 Feb |  |
-| 8 |  | || 5 Mar|  |
-| 9 |   | || 12 Mar| |
-| 10 | | || 19 Mar| |
+| 1 | Introduction,   | [slides1](./slides/slides_intro.pdf)  | - |  29/30 Sept | [syllabus]() |
+| 2 |  | | - | 6/7 Oct | |
+| 3 | | | | 13/14 Oct |   |
+| 4 |    | |  | 20/21 Oct |  |
+| 5 |  | | | 27/28 Oct | 5 Feb|  |
+| 6 | | | | 3/4 Nov|  |
+| 7 |  | | | 10/11 Nov |  |
+| 8 |  | || 17/18 Nov|  |
+| 9 |   | | - | 24/25 Nov| |
+| 10 | | | - | 1/2 Dec| |
