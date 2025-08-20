@@ -43,10 +43,15 @@ The following books complement the material presented in the lecture.
 
 ## Lectures and timeline (tentative)
 
-| Day | Lectures  | Notes | Tutorials |  
-| --- |  --- | --- | --- | 
-| 1 | Introduction, sequences, limits, differentiation, continuity.  | slides 1 |  |  
-| 2 |   | slides 2 |  |  
-| 3 |   | slides 3 |  |  
-| 4 |   | slides 4 |  |  
-| 5 |   | slides 5 |  |  
+| Week | Topic  | Slides | Tutorials | Lectures date  | Timeline |
+| --- |  --- | --- | --- | --- | --- | 
+| 1 | Introduction,   | [slides1](./slides/slides_intro.pdf)  |  |  29/30 Jan| [syllabus]() |
+| 2 |  | | | 15 Jan | |
+| 3 | | | | 22 Jan |   |
+| 4 |    | |  | 29 Jan |  |
+| 5 |  | | | **midterm1**  | 5 Feb|  |
+| 6 | | | | 12 Feb|  |
+| 7 |  | | | 26 Feb |  |
+| 8 |  | || 5 Mar|  |
+| 9 |   | || 12 Mar| |
+| 10 | | || 19 Mar| |
