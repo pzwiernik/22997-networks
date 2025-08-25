@@ -6,11 +6,7 @@
   <img src="cover_image.png" alt="Course cover" width="80%">
 </td>
 <td style="width:60%; vertical-align:top; padding-left:15px;">
-  This intensive course reviews key tools in calculus and linear algebra that will be essential for success in the Master’s programs in Economics and Finance.  
-  Because we cover a large amount of material in a short period, the pace is demanding. Students are encouraged to use the course strategically: it provides an opportunity to refresh fundamental concepts, to identify personal gaps in mathematical background, and to establish good study habits before the start of the program. <br>
-<br>
-  
-  This website contains most of the relevant information about the course; see also our <a href="https://classroom.google.com/c/NzcwNDYxODI2ODky?cjc=ekc5e2d4">Google Classroom</a> for complementary bits. 
+  This course offers an introduction to the mathematics of networks, their dynamics, and their applications in economics and the social sciences. We combine rigorous probabilistic models with real-world data and case studies, moving from the basics of Erdős–Rényi random graphs to power laws, small-world phenomena, clustering, and preferential attachment.
 </td>
 </tr>
 </table>
