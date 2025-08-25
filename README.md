@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td style="width:40%; vertical-align:top;">
-  <img src="cover_image.png" alt="Course cover" width="80%">
+  <img src="cover_image.png" alt="Course cover" width="100%">
 </td>
 <td style="width:60%; vertical-align:top; padding-left:15px;">
   This course offers an introduction to the mathematics of networks, their dynamics, and their applications in economics and the social sciences. We combine rigorous probabilistic models with real-world data and case studies, moving from the basics of Erdős–Rényi random graphs to power laws, small-world phenomena, clustering, and preferential attachment.
