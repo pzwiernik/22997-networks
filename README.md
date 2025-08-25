@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td style="width:40%; vertical-align:top;">
-  <img src="course_image.png" alt="Course cover" width="80%">
+  <img src="cover_image.png" alt="Course cover" width="80%">
 </td>
 <td style="width:60%; vertical-align:top; padding-left:15px;">
   This intensive course reviews key tools in calculus and linear algebra that will be essential for success in the Master’s programs in Economics and Finance.  
