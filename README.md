@@ -14,7 +14,7 @@
 ***
 
 ### Announcements:
-- Apr 18: Two final office hours: Tuesday and Wednesday 2-4pm, UY 9171 (same time, same room). 
+- The first lecture is on September 29, 3-4:30pm, in room 40.063. 
 
 ***
 
