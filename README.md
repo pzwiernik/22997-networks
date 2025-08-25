@@ -1,5 +1,15 @@
 # 22997 - Networks, Crowds and Markets - Fall 2025
-<img src="pics/cover.png" align="left" width="150"> This course introduces modern methods for multivariate data building also some theoretical foundations. The lecture is divided into five blocks: I. Foundations of Multivariate Analysis, II. Multivariate statistical Inference, III. Dimensionality Reduction Techniques, IV. Covariance matrix modelling and estimation, V. Methods for Tensors.
+
+<table>
+<tr>
+<td style="width:45%; vertical-align:top;">
+  <img src="cover_image.png" alt="Course cover" width="100%">
+</td>
+<td style="width:55%; vertical-align:top; padding-left:15px;">
+  This course offers an introduction to the mathematics of networks, their dynamics, and their applications in economics and the social sciences. We combine rigorous probabilistic models with real-world data and case studies, moving from the basics of Erdős–Rényi random graphs to power laws, small-world phenomena, clustering, and preferential attachment.
+</td>
+</tr>
+</table>
 
 ***
 
