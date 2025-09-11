@@ -56,8 +56,8 @@ The following books complement the material presented in the lecture.
 | Week | Topic  | Slides | Tutorials | Lectures date  | Timeline |
 | --- |  --- | --- | --- | --- | --- | 
 | 1 | Motivation and first examples. <br> Special graphs, degree, adjacency matrix.  | [slides1](./slides/lecture1.pdf)  <br> slides2| - |  29/30 Sept | [syllabus]() |
-| 2 | Distance in graphs, diameter, connectivity, trees. <br> Random graphs and Erdös–Rényi model, degrees, threshold phenomena. | slides3 <br> slides4 | - | 6/7 Oct | |
-| 3 | Clustering, other random graph models, preferential attachment.<br> | slides5 <br> slides6| | 13/14 Oct |   |
+| 2 | Distance in graphs, diameter, connectivity, trees. <br> Erdös–Rényi model, degrees, threshold phenomena. | slides3 <br> slides4 | - | 6/7 Oct | |
+| 3 | Clustering, other random graph models, preferential attachment.<br> Small world, latent space random graphs.| slides5 <br> slides6| | 13/14 Oct |   |
 | 4 |    | slides7 <br> slides8|  | 20/21 Oct |  |
 | 5 |  |slides9 <br> slides10 | | 27/28 Oct | 5 Feb|  |
 | 6 | | slides11 <br> slides12| | 3/4 Nov|  |
