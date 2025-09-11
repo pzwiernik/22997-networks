@@ -55,7 +55,8 @@ The following books complement the material presented in the lecture.
 
 | Week | Topic  | Slides | Tutorials | Lectures date  | Timeline |
 | --- |  --- | --- | --- | --- | --- | 
-| 1 | Motivation and first examples. <br> Special graphs, degree, adjacency matrix.  | [slides1](./slides/Lecture1.pdf)  | - |  29/30 Sept | [syllabus]() |
+| 1 | Motivation and first examples. <br> Special graphs, degree, adjacency matrix.  | [slides1](./slides/lecture1.pdf)  <br>
+slides2| - |  29/30 Sept | [syllabus]() |
 | 2 |  | | - | 6/7 Oct | |
 | 3 | | | | 13/14 Oct |   |
 | 4 |    | |  | 20/21 Oct |  |
