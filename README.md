@@ -59,8 +59,8 @@ The following books complement the material presented in the lecture.
 | 2 | Distance in graphs, diameter, connectivity, trees. <br> Erdös–Rényi model, degrees, threshold phenomena. | slides3 <br> slides4 | - | 6/7 Oct | |
 | 3 | Clustering, other random graph models, preferential attachment.<br> Small world, latent space random graphs.| slides5 <br> slides6| | 13/14 Oct |   |
 | 4 |  Power laws and hubs. <br> Average path length, models with flexible degree distributions.  | slides7 <br> slides8|  | 20/21 Oct |  |
-| 5 | The Barabási-Albert Model <br> Centrality measures. |slides9 <br> slides10 | | 27/28 Oct | 5 Feb|  |
-| 6 | Eigenvalue centrality, Pagerank algorithm. <br> | slides11 <br> slides12| | 3/4 Nov|  |
+| 5 | The Barabási-Albert Model <br> midterm|slides9  | | 27/28 Oct | midterm|  |
+| 6 | Centrality measures.<br>Eigenvalue centrality, Pagerank algorithm.  | slides11 <br> slides12| | 3/4 Nov|  |
 | 7 |  | slides13 <br> slides14| | 10/11 Nov |  |
 | 8 |  | slides15 <br> slides16|| 17/18 Nov|  |
 | 9 |   | slides17 <br> slides18| - | 24/25 Nov| |
