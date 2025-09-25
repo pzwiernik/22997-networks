@@ -61,6 +61,6 @@ The following books complement the material presented in the lecture.
 | 5 | The Barabási-Albert Model <br> midterm|slides9 <br> -- | | 27/28 Oct | midterm|  |
 | 6 | Centrality measures.<br>Eigenvalue centrality, Pagerank algorithm.  | slides11 <br> slides12| | 3/4 Nov|  |
 | 7 | Communities: definition and identification. Stochastic Block Model. <br> Social networks, forming mechanism. | slides13 <br> slides14|  | 10/11 Nov |  |
-| 8 |  | slides15 <br> slides16| Matching markets <br> Spreading phenomena| 17/18 Nov|  |
+| 8 | Matching markets <br> Spreading phenomena | slides15 <br> slides16| | 17/18 Nov|  |
 | 9 |   | slides17 <br> slides18| - | 24/25 Nov| |
 | 10 | |slides19 <br> slides20 | - | 1/2 Dec| |
