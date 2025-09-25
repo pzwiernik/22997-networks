@@ -1,4 +1,4 @@
-# 22997 - Networks, Crowds and Markets - Fall 2025
+# Networks, Crowds and Markets - Fall 2025
 
 <table>
 <tr>
