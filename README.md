@@ -41,12 +41,11 @@ There are six tutorial sessions, in weeks: 3,4,5,6,7,8.
 ### Suggested Reading
 The following books complement the material presented in the lecture.
 
-
-* (SK) Saoub, Karin R. (2017). A Tour Through Graph Theory. Springer.
+* (EK) Easley, D., & Kleinberg, J. (2010). Networks, Crowds, and Markets: Reasoning About a Highly Connected World. Cambridge University Press. [Available online](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
 * (B) Barabási, A. L. (2016). Network Science. Cambridge University Press. [Available online](https://networksciencebook.com/)
 * (N) Newman, M. (2010). Networks: An Introduction. Oxford University Press.
-* (EK) Easley, D., & Kleinberg, J. (2010). Networks, Crowds, and Markets: Reasoning About a Highly Connected World. Cambridge University Press. [Available online](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
 * (M) Menczer, F. (2020). A First Course in Network Science. Cambridge University Press. [Available online](https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/)
+* (SK) Saoub, Karin R. (2017). A Tour Through Graph Theory. Springer.
 
 
 ***
