@@ -41,11 +41,11 @@ There are six tutorial sessions, in weeks: 3,4,5,6,7,8.
 ### Suggested Reading
 The following books complement the material presented in the lecture.
 
-* (EK) Easley, D., & Kleinberg, J. (2010). Networks, Crowds, and Markets: Reasoning About a Highly Connected World. Cambridge University Press. [Available online](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
-* (B) Barabási, A. L. (2016). Network Science. Cambridge University Press. [Available online](https://networksciencebook.com/)
-* (N) Newman, M. (2010). Networks: An Introduction. Oxford University Press.
-* (M) Menczer, F. (2020). A First Course in Network Science. Cambridge University Press. [Available online](https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/)
-* (SK) Saoub, Karin R. (2017). A Tour Through Graph Theory. Springer.
+* (EK) Easley, Kleinberg (2010). Networks, Crowds, and Markets: Reasoning About a Highly Connected World. Cambridge University Press. [Available online](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
+* (B) Barabási (2016). Network Science. Cambridge University Press. [Available online](https://networksciencebook.com/)
+* (N) Newman (2010). Networks: An Introduction. Oxford University Press.
+* (MFD) Menczer, Fortunato, David (2020). A First Course in Network Science. Cambridge University Press. [Available online](https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/)
+* (SK) Saoub (2017). A Tour Through Graph Theory. Springer.
 
 
 ***
@@ -65,3 +65,15 @@ The following books complement the material presented in the lecture.
 | 8 | Matching markets <br> Spreading phenomena | slides15 <br> slides16| | | 17/18 Nov|  |
 | 9 |   | slides17 <br> slides18| - | | 24/25 Nov| |
 | 10 | |slides19 <br> slides20 | - | | 1/2 Dec| |
+
+***
+
+## NetworkX guidelines
+
+Although coding is not an essential part of this course, it is a very important complementary part. As the absolute minimum, you should try to run the code provided in class. 
+
+We use Python and NetworkX. Useful documentation and examples can be found on the [GitHub of MFD book](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/tree/master).
+
+I suggest to start like that:
+- Create a [Google Colab](https://colab.research.google.com/) account (you should be able to do it using your UPF account).
+- Take a look at [MFD:Appendix A](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/de9b42e3953ed90616940a801f64489067c1b888/tutorials/Appendix%20-%20Python%20Tutorial.ipynb). No need to read it completely. Use it as a reference.
