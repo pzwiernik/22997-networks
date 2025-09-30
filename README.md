@@ -14,6 +14,7 @@
 ***
 
 ### Announcements:
+- I added the proof sketches for both theorems of Lecture 2. The slides have been updated. 
 - The midterm is scheduled for Monday, October 27, during the lecture.
 - The first lecture is on September 29, 3-4:30pm, in room 40.063. 
 
