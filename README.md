@@ -14,8 +14,8 @@
 ***
 
 ### Announcements:
+- **update:** The midterm is scheduled for Monday, November 3, during the lecture.
 - I added the proof sketches for both theorems of Lecture 2. The slides have been updated. 
-- The midterm is scheduled for Monday, October 27, during the lecture.
 - The first lecture is on September 29, 3-4:30pm, in room 40.063. 
 
 ***
@@ -61,8 +61,8 @@ The following books complement the material presented in the lecture.
 | 2 | Degree distribution, graph isomorphisc, adjacency matrix. <br> Distance in graphs, diameter, connectivity, trees.  | slides3 <br> slides4 | -|  | 6/7 Oct | report topics published|
 | 3 | Erdös–Rényi model, degrees, threshold phenomena.<br> Clustering, other random graph models, preferential attachment.| slides5 <br> slides6| | | 13/14 Oct |   |
 | 4 |  Small world, latent space random graphs.<br> Power laws and hubs.  | slides7 <br> slides8|  | | 20/21 Oct |  |
-| 5 | midterm <br> Average path length, models with flexible degree distributions. |slides9  | | | 27/28 Oct | midterm|  |
-| 6 | The Barabási-Albert Model, Centrality measures.<br>Eigenvalue centrality, Pagerank algorithm.  | slides11 <br> slides12| | | 3/4 Nov|  |
+| 5 | Average path length, models with flexible degree distributions. <br> The Barabási-Albert Model, Centrality measures |slides9 <br> slides10 | | | 27/28 Oct | |  |
+| 6 | midterm <br> Eigenvalue centrality, Pagerank algorithm.  |  <br> slides12| | | 3/4 Nov| midterm |
 | 7 | Communities: definition and identification. Stochastic Block Model. <br> Social networks, forming mechanism. | slides13 <br> slides14|  | | 10/11 Nov | deadline reports <br> presentations 1|
 | 8 | Matching markets <br> Spreading phenomena | slides15 <br> slides16| | | 17/18 Nov| presentations 2 |
 | 9 |   | slides17 <br> slides18| - | | 24/25 Nov| |
