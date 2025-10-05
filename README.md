@@ -58,7 +58,7 @@ The following books complement the material presented in the lecture.
 | Week | Topic  | Slides | Tutorials | Colabs | Lectures date  | Timeline |
 | --- |  --- | --- | --- | --- | --- | --- | 
 | 1 | Motivation and first examples. <br> Special graphs, degree.  | [slides1](./slides/lecture1.pdf)  <br> [slides2](./slides/lecture2.pdf)| - | [colab1](https://colab.research.google.com/drive/16r0vZQRAynCS0hAHtJxrkX0MHR6gK8Zp?usp=sharing)| 29/30 Sept |  |
-| 2 | Degree distribution, graph isomorphisc, adjacency matrix. <br> Distance in graphs, diameter, connectivity, trees.  | slides3 <br> slides4 | -|  | 6/7 Oct | report topics published|
+| 2 | Degree distribution, graph isomorphisc, adjacency matrix. <br> Distance in graphs, diameter, connectivity, trees.  | [slides3](./slides/lecture3.pdf) <br> slides4 | -|  | 6/7 Oct | report topics published|
 | 3 | Erdös–Rényi model, degrees, threshold phenomena.<br> Clustering, other random graph models, preferential attachment.| slides5 <br> slides6| | | 13/14 Oct |   |
 | 4 |  Small world, latent space random graphs.<br> Power laws and hubs.  | slides7 <br> slides8|  | | 20/21 Oct |  |
 | 5 | Average path length, models with flexible degree distributions. <br> The Barabási-Albert Model, Centrality measures |slides9 <br> slides10 | | | 27/28 Oct | |  |
