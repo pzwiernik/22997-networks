@@ -14,6 +14,7 @@
 ***
 
 ### Announcements:
+- The proposed [project topics](./seminars/ProjectProposals.pdf) are released. To suggest your own topics contact me ASAP.
 - The following [problem set](./seminars/Problem_set.pdf) contains exercises covering most of the course. We will use it for the seminars.
 - **update:** The midterm is scheduled for Monday, November 3, during the lecture.
 - I added the proof sketches for both theorems of Lecture 2. The slides have been updated. 
@@ -59,7 +60,7 @@ The following books complement the material presented in the lecture.
 | Week | Topic  | Slides | Tutorials | Colabs | Lectures date  | Timeline |
 | --- |  --- | --- | --- | --- | --- | --- | 
 | 1 | Motivation and first examples. <br> Special graphs, degree.  | [slides1](./slides/lecture1.pdf)  <br> [slides2](./slides/lecture2.pdf)| - | [colab1](https://github.com/pzwiernik/22997-networks/blob/31f53e57e3c1bdad73fb6626f2a0ac5a1367d621/colabs/NetworkNotebook1.ipynb)| 29/30 Sept |  |
-| 2 | Degree distribution, graph isomorphism, adjacency matrix. <br> Distance in graphs, diameter, connectivity, trees.  | [slides3](./slides/lecture3.pdf) <br> slides4 | -| [degree](https://github.com/pzwiernik/22997-networks/blob/31f53e57e3c1bdad73fb6626f2a0ac5a1367d621/colabs/Lecture3.ipyn)|  6/7 Oct | report topics published|
+| 2 | Degree distribution, graph isomorphism, adjacency matrix. <br> Distance in graphs, diameter, connectivity, trees.  | [slides3](./slides/lecture3.pdf) <br> slides4 | -| [degree](https://github.com/pzwiernik/22997-networks/blob/31f53e57e3c1bdad73fb6626f2a0ac5a1367d621/colabs/Lecture3.ipyn)|  6/7 Oct | [report topics published](./seminars/ProjectProposals.pdf)|
 | 3 | Erdös–Rényi model, degrees, threshold phenomena.<br> Clustering, other random graph models, preferential attachment.| slides5 <br> slides6| | | 13/14 Oct |   |
 | 4 |  Small world, latent space random graphs.<br> Power laws and hubs.  | slides7 <br> slides8|  | | 20/21 Oct |  |
 | 5 | Average path length, models with flexible degree distributions. <br> The Barabási-Albert Model, Centrality measures |slides9 <br> slides10 | | | 27/28 Oct | |  |
