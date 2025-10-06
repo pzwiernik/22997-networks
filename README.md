@@ -14,6 +14,7 @@
 ***
 
 ### Announcements:
+- The following [problem set](./seminars/Problem_set.pdf) contains exercises covering most of the course. We will use it for the seminars.
 - **update:** The midterm is scheduled for Monday, November 3, during the lecture.
 - I added the proof sketches for both theorems of Lecture 2. The slides have been updated. 
 - The first lecture is on September 29, 3-4:30pm, in room 40.063. 
