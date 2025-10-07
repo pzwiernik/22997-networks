@@ -60,7 +60,7 @@ The following books complement the material presented in the lecture.
 | Week | Topic  | Slides | Tutorials | Colabs | Lectures date  | Timeline |
 | --- |  --- | --- | --- | --- | --- | --- | 
 | 1 | Motivation and first examples. <br> Special graphs, degree.  | [slides1](./slides/lecture1.pdf)  <br> [slides2](./slides/lecture2.pdf)| - | [colab1](https://github.com/pzwiernik/22997-networks/blob/31f53e57e3c1bdad73fb6626f2a0ac5a1367d621/colabs/NetworkNotebook1.ipynb)| 29/30 Sept |  |
-| 2 | Degree distribution, graph isomorphism, adjacency matrix. <br> Distance in graphs, diameter, connectivity, trees.  | [slides3](./slides/lecture3.pdf) <br> slides4 | -| [degree](https://github.com/pzwiernik/22997-networks/blob/31f53e57e3c1bdad73fb6626f2a0ac5a1367d621/colabs/Lecture3.ipyn)|  6/7 Oct | [report topics published](./seminars/ProjectProposals.pdf)|
+| 2 | Degree distribution, graph isomorphism, adjacency matrix. <br> Distance in graphs, diameter, connectivity, trees.  | [slides3](./slides/lecture3.pdf) <br> [slides4](./slides/lecture4.pdf) | -| [degree](https://github.com/pzwiernik/22997-networks/blob/31f53e57e3c1bdad73fb6626f2a0ac5a1367d621/colabs/Lecture3.ipyn)|  6/7 Oct | [report topics published](./seminars/ProjectProposals.pdf)|
 | 3 | Erdös–Rényi model, degrees, threshold phenomena.<br> Clustering, other random graph models, preferential attachment.| slides5 <br> slides6| | | 13/14 Oct |   |
 | 4 |  Small world, latent space random graphs.<br> Power laws and hubs.  | slides7 <br> slides8|  | | 20/21 Oct |  |
 | 5 | Average path length, models with flexible degree distributions. <br> The Barabási-Albert Model, Centrality measures |slides9 <br> slides10 | | | 27/28 Oct | |  |
