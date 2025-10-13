@@ -82,3 +82,12 @@ I suggest to start like that:
 - Create a [Google Colab](https://colab.research.google.com/) account (you should be able to do it using your UPF account).
 - Take a look at [MFD:Appendix A](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/de9b42e3953ed90616940a801f64489067c1b888/tutorials/Appendix%20-%20Python%20Tutorial.ipynb). No need to read it completely. Use it as a reference.
 - Start with the [first colab](https://colab.research.google.com/drive/16r0vZQRAynCS0hAHtJxrkX0MHR6gK8Zp?usp=sharing).
+
+***
+
+## Report topics taken:
+
+Seminar 101:
+
+Seminar 102:
+- **Cascading Failures and Systemic Risk**
