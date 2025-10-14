@@ -61,7 +61,7 @@ The following books complement the material presented in the lecture.
 | --- |  --- | --- | --- | --- | --- | --- | 
 | 1 | Motivation and first examples. <br> Special graphs, degree.  | [slides1](./slides/lecture1.pdf)  <br> [slides2](./slides/lecture2.pdf)| - | [colab1](https://github.com/pzwiernik/22997-networks/blob/31f53e57e3c1bdad73fb6626f2a0ac5a1367d621/colabs/NetworkNotebook1.ipynb)| 29/30 Sept |  |
 | 2 | Degree distribution, graph isomorphism, adjacency matrix. <br> Distance in graphs, diameter. Centrality measures.  | [slides3](./slides/lecture3.pdf) <br> [slides4](./slides/lecture4.pdf) | -| [degree](https://github.com/pzwiernik/22997-networks/blob/31f53e57e3c1bdad73fb6626f2a0ac5a1367d621/colabs/Lecture3.ipyn)|  6/7 Oct | [report topics published](./seminars/ProjectProposals.pdf)|
-| 3 | Centrality measures (continued), <br> Pagerank algorithm.| slides5 <br> slides6| | | 13/14 Oct |   |
+| 3 | Centrality measures (continued), <br> Linear algebra, Random walks, Pagerank algorithm.| [slides5](./slides/lecture5.pdf) <br> slides6| | | 13/14 Oct |   |
 | 4 |  Erdös–Rényi model, degrees, threshold phenomena.<br>Clustering, other random graph models, preferential attachment.   | slides7 <br> slides8|  | | 20/21 Oct |  |
 | 5 | Small world, latent space random graphs.<br>Power laws and hubs.  |slides9 <br> slides10 | | | 27/28 Oct | |  |
 | 6 | midterm <br> Average path length, models with flexible degree distributions.  |  <br> slides12| | | 3/4 Nov| midterm |
@@ -82,3 +82,12 @@ I suggest to start like that:
 - Create a [Google Colab](https://colab.research.google.com/) account (you should be able to do it using your UPF account).
 - Take a look at [MFD:Appendix A](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/de9b42e3953ed90616940a801f64489067c1b888/tutorials/Appendix%20-%20Python%20Tutorial.ipynb). No need to read it completely. Use it as a reference.
 - Start with the [first colab](https://colab.research.google.com/drive/16r0vZQRAynCS0hAHtJxrkX0MHR6gK8Zp?usp=sharing).
+
+***
+
+## Report topics taken:
+
+Seminar 101:
+
+Seminar 102:
+- **Cascading Failures and Systemic Risk**
