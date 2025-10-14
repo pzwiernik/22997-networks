@@ -92,3 +92,4 @@ Seminar 101:
 
 Seminar 102:
 - **Cascading Failures and Systemic Risk**
+- **Friendship paradox**
