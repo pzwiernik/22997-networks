@@ -13,7 +13,7 @@ Joan Vidal Llauradó 102 -> 101 (seminar clash)
 Martin Wiuff Jørgensen: 101 -> 102
 
 Claudia (u213204) and Guillermo (u214316)
-Oriol
+Orioln Codom
 
 
 Report presentations:
@@ -22,4 +22,14 @@ Aina Font i Ramió - 12th of November
 
 Seminar absence:
 Calixta Varady Breier - surgery, needs to stay 2 months at home.
+
+
+
+Report topics assignment:
+
+101:
+
+102:
+
+- Cascading Failures and Systemic Risk: Joel Belmonte, Ingrid Canelles, Xian Fortes, Paula Solores.
 
