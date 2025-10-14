@@ -88,6 +88,7 @@ I suggest to start like that:
 ## Report topics taken:
 
 Seminar 101:
+- **Friendship paradox**
 
 Seminar 102:
 - **Cascading Failures and Systemic Risk**
