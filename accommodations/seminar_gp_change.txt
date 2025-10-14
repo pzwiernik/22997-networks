@@ -29,7 +29,10 @@ Report topics assignment:
 
 101:
 
+- Friendship paradox: Paula Palacio, Paulina Petit, Eduard Gibert and Mariona Planas
+
 102:
 
 - Cascading Failures and Systemic Risk: Joel Belmonte, Ingrid Canelles, Xian Fortes, Paula Solores.
+- Friendship paradox: Sofía Valladares, Oriol Condom and I, Guillermo Romero
 
