@@ -35,4 +35,5 @@ Report topics assignment:
 
 - Cascading Failures and Systemic Risk: Joel Belmonte, Ingrid Canelles, Xian Fortes, Paula Solores.
 - Friendship paradox: Sofía Valladares, Oriol Condom and I, Guillermo Romero
-
+- Structural Balance of social network: Chiara Battaglia, Anna Boscaino, Jacopo Costantini, Ivan Canins
+- Misinformation and Influence Dynamics on Social Media: Maria Eduarda de Almeida), Marta Moll, Ariadna Millan, and Gerard Pujol.
