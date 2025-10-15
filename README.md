@@ -93,3 +93,5 @@ Seminar 101:
 Seminar 102:
 - **Cascading Failures and Systemic Risk**
 - **Friendship paradox**
+- **Structural Balance of social network**
+- **Misinformation and Influence Dynamics on Social Media**
