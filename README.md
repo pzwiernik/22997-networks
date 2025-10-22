@@ -88,6 +88,7 @@ I suggest to start like that:
 ## Report topics taken:
 
 Seminar 101:
+- **Cascading Failures and Systemic Risk**
 - **Friendship paradox**
 - **Misinformation and Influence Dynamics on Social Media**
 - **Learning in Networks: Diffusion of Information**
