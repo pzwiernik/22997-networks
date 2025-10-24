@@ -92,7 +92,7 @@ Seminar 101:
 - **Friendship paradox**
 - **Learning in Networks: Diffusion of Information**
 - **Misinformation and Influence Dynamics on Social Media**
-
+- **Structural Balance of Social Networks**
 
 Seminar 102:
 - **Cascading Failures and Systemic Risk**
