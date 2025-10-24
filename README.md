@@ -90,13 +90,15 @@ I suggest to start like that:
 Seminar 101:
 - **Cascading Failures and Systemic Risk**
 - **Friendship paradox**
-- **Misinformation and Influence Dynamics on Social Media**
 - **Learning in Networks: Diffusion of Information**
+- **Misinformation and Influence Dynamics on Social Media**
+
 
 Seminar 102:
 - **Cascading Failures and Systemic Risk**
 - **Friendship paradox**
 - **Kidney Exchange**
-- **Structural Balance of social network**
 - **Misinformation and Influence Dynamics on Social Media**
+- **Percolation and Network Resilience**
+- **Structural Balance of social network**
   
