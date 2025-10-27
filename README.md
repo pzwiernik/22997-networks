@@ -68,7 +68,7 @@ The exam covers the material presented in the lecture and the accompanying slide
 | 6 | midterm <br> Other random graph models, preferential attachment.  |  <br> slides12| | | 3/4 Nov| midterm |
 | 7 |  Average path length, models with flexible degree distributions. <br> Communities: definition and identification. Stochastic Block Model. | slides13 <br> slides14|  | | 10/11 Nov | |
 | 8 | Social networks, forming mechanism.<br>Matching markets  | slides15 <br> slides16| | | 17/18 Nov| deadline reports <br> presentations 1 |
-| 9 | Spreading phenomena  | slides17 <br> slides18| - | | 24/25 Nov| presentations 2 |
+| 9 | presentations <br> Spreading phenomena  | slides17 <br> slides18| - | | 24/25 Nov| presentations 2 |
 | 10 | |slides19 <br> slides20 | - | | 1/2 Dec| |
 
 ***
