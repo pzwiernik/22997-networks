@@ -66,9 +66,9 @@ The exam covers the material presented in the lecture and the accompanying slide
 | 4 |  Pagerank algorithm and HITS, Erdös–Rényi model<br> Degree distribution, threshold phenomena, clustering.   | [slides7](./slides/lecture7.pdf) <br> [slides8](./slides/lecture8.pdf)| [sem2](./seminars/seminar2.pdf) | [colab3](https://github.com/pzwiernik/22997-networks/blob/6c9d5dd4b074796553c22ed8c846c952e49b6914/colabs/NetworkNotebook3.ipynb)| 20/21 Oct |  |
 | 5 | Clustering and small world <br> Power laws and hubs.  |[slides9](./slides/lecture9.pdf) <br> slides10 | | | 27/28 Oct | |  |
 | 6 | midterm <br> Other random graph models, preferential attachment.  |  <br> slides12| | | 3/4 Nov| midterm |
-| 7 |  Average path length, models with flexible degree distributions. <br> Communities: definition and identification. Stochastic Block Model. | slides13 <br> slides14|  | | 10/11 Nov | deadline reports <br> presentations 1|
-| 8 | Social networks, forming mechanism.<br>Matching markets  | slides15 <br> slides16| | | 17/18 Nov| presentations 2 |
-| 9 | Spreading phenomena  | slides17 <br> slides18| - | | 24/25 Nov| |
+| 7 |  Average path length, models with flexible degree distributions. <br> Communities: definition and identification. Stochastic Block Model. | slides13 <br> slides14|  | | 10/11 Nov | |
+| 8 | Social networks, forming mechanism.<br>Matching markets  | slides15 <br> slides16| | | 17/18 Nov| deadline reports <br> presentations 1 |
+| 9 | Spreading phenomena  | slides17 <br> slides18| - | | 24/25 Nov| presentations 2 |
 | 10 | |slides19 <br> slides20 | - | | 1/2 Dec| |
 
 ***
