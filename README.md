@@ -14,6 +14,7 @@
 ***
 
 ### Announcements:
+- Deadline for project submissions: November 18. Presentations start on November 19 and continue on November 24. 
 - The proposed [project topics](./seminars/ProjectProposals.pdf) are released. To suggest your own topics contact me ASAP.
 - The following [problem set](./seminars/Problem_set.pdf) contains exercises covering most of the course. We will use it for the seminars.
 - **update:** The midterm is scheduled for Monday, November 3, during the lecture.
