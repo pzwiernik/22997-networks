@@ -65,7 +65,7 @@ The exam covers the material presented in the lecture and the accompanying slide
 | 3 | Centrality measures (continued), <br> Linear algebra, Random walks.| [slides5](./slides/lecture5.pdf) <br> [slides6](./slides/lecture6.pdf)| [sem1](./seminars/seminar1.pdf) | | 13/14 Oct |   |
 | 4 |  Pagerank algorithm and HITS, Erdös–Rényi model<br> Degree distribution, threshold phenomena, clustering.   | [slides7](./slides/lecture7.pdf) <br> [slides8](./slides/lecture8.pdf)| [sem2](./seminars/seminar2.pdf) | [colab3](https://github.com/pzwiernik/22997-networks/blob/6c9d5dd4b074796553c22ed8c846c952e49b6914/colabs/NetworkNotebook3.ipynb)| 20/21 Oct |  |
 | 5 | Clustering and small world <br> Power laws and hubs.  |[slides9](./slides/lecture9.pdf) <br> [slides10](./slides/lecture10.pdf) | [sem3](./seminars/seminar3.pdf)| | 27/28 Oct | |  |
-| 6 | midterm <br> Other random graph models, preferential attachment.  |  <br> slides12| | | 3/4 Nov| midterm |
+| 6 | midterm <br> Other random graph models, preferential attachment.  |  [extra](./slides/how_to_give_talks.pdf) <br> slides12| | | 3/4 Nov| midterm |
 | 7 | Communities: definition and identification. <br>  Stochastic Block Model. | slides13 <br> slides14|  | | 10/11 Nov | |
 | 8 | Social networks, forming mechanism.<br>Matching markets  | slides15 <br> slides16| | | 17/18 Nov| deadline reports <br> presentations 1 |
 | 9 | Matching markets <br> presentations  | slides17 <br> slides18| - | | 24/25 Nov| presentations 2 |
