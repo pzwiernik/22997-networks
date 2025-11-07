@@ -14,6 +14,7 @@
 ***
 
 ### Announcements:
+- The midterm with answers can be found [here](./exams/midtermA_answers.pdf).
 - In the bottom of the website you can see the dates for project presentations.
 - Deadline for project submissions: November 18. Presentations start on November 19 and continue on November 24. 
 - The proposed [project topics](./seminars/ProjectProposals.pdf) are released. To suggest your own topics contact me ASAP.
