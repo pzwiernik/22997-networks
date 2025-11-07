@@ -14,6 +14,7 @@
 ***
 
 ### Announcements:
+- For basic matrix algebra review check Section 1.4 and accompanying exercises [here](https://rksmvv.ac.in/wp-content/uploads/2021/04/Gilbert_Strang_Linear_Algebra_and_Its_Applicatio_230928_225121.pdf). I also recommend taking the course "Linear Algebra and Dynamical Systems".
 - The midterm with answers can be found [here](./exams/midtermA_answers.pdf).
 - In the bottom of the website you can see the dates for project presentations.
 - Deadline for project submissions: November 18. Presentations start on November 19 and continue on November 24. 
