@@ -69,7 +69,7 @@ The exam covers the material presented in the lecture and the accompanying slide
 | 4 |  Pagerank algorithm and HITS, Erdös–Rényi model<br> Degree distribution, threshold phenomena, clustering.   | [slides7](./slides/lecture7.pdf) <br> [slides8](./slides/lecture8.pdf)| [sem2](./seminars/seminar2.pdf) | [colab3](https://github.com/pzwiernik/22997-networks/blob/6c9d5dd4b074796553c22ed8c846c952e49b6914/colabs/NetworkNotebook3.ipynb)| 20/21 Oct |  |
 | 5 | Clustering and small world <br> Power laws and hubs.  |[slides9](./slides/lecture9.pdf) <br> [slides10](./slides/lecture10.pdf) | [sem3](./seminars/seminar3.pdf)| | 27/28 Oct | |  |
 | 6 | midterm <br> Static random graph models.  |  [extra](./slides/how_to_give_talks.pdf) <br> [slides12](./slides/lecture12.pdf)| [sem4](./seminars/seminar4.pdf)| | 3/4 Nov| midterm |
-| 7 | Static random graph models. <br> Communities: definition and identification.  |[slides13](./slides/lecture13.pdf) <br> slides14|  | | 10/11 Nov | |
+| 7 | Static random graph models. <br> Communities: definition and identification.  |[slides13](./slides/lecture13.pdf) <br> slides14| [colab4](https://github.com/pzwiernik/22997-networks/blob/91d4ee96f970833dcbfa416e81682d42c17bb343/colabs/NetworkNotebook4.ipynb) | | 10/11 Nov | |
 | 8 | Social networks, forming mechanism.<br>Matching markets  | slides15 <br> slides16| | | 17/18 Nov| deadline reports <br> presentations 1 |
 | 9 | Matching markets <br> presentations  | slides17 <br> slides18| - | | 24/25 Nov| presentations 2 |
 | 10 | Spreading phenomena <br> Summary|slides19 <br> slides20 | - | | 1/2 Dec| |
