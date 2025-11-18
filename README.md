@@ -70,7 +70,7 @@ The exam covers the material presented in the lecture and the accompanying slide
 | 5 | Clustering and small world <br> Power laws and hubs.  |[slides9](./slides/lecture9.pdf) <br> [slides10](./slides/lecture10.pdf) | [sem3](./seminars/seminar3.pdf)| | 27/28 Oct | |  |
 | 6 | midterm <br> Static random graph models.  |  [extra](./slides/how_to_give_talks.pdf) <br> [slides12](./slides/lecture12.pdf)| [sem4](./seminars/seminar4.pdf)| | 3/4 Nov| midterm |
 | 7 | Static random graph models. <br> Communities: definition and identification.  |[slides13](./slides/lecture13.pdf) <br> [slides14](./slides/lecture14.pdf)| [sem5](./seminars/seminar5.pdf)<br> [colabsem5](https://github.com/pzwiernik/22997-networks/blob/2c013685793897c7f70a4718ebe5436ceae0c993/colabs/seminar5.ipynb)|[colab4](https://github.com/pzwiernik/22997-networks/blob/91d4ee96f970833dcbfa416e81682d42c17bb343/colabs/NetworkNotebook4.ipynb)  | 10/11 Nov | |
-| 8 | Social networks, forming mechanism.<br>Matching markets  | [slides15](./slides/lecture15.pdf) <br> slides16| | | 17/18 Nov| deadline reports <br> presentations 1 |
+| 8 | Social networks, forming mechanism.<br>Matching markets  | [slides15](./slides/lecture15.pdf) <br> [slides16](./slides/lecture16.pdf)| | | 17/18 Nov| deadline reports <br> presentations 1 |
 | 9 | Matching markets <br> presentations  | slides17 <br> slides18| - | | 24/25 Nov| presentations 2 |
 | 10 | Spreading phenomena <br> Summary|slides19 <br> slides20 | - | | 1/2 Dec| |
 
