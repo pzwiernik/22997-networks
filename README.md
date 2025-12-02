@@ -115,3 +115,8 @@ Lecture (25 Nov)
 3. Group E: Credit default prediction
 4. Group J: Kidney Exchange Project
   
+***
+
+## Seminar slides with solutions:
+
+[Seminar 1](./seminars/seminar1-solved.pdf)
