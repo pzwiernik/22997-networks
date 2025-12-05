@@ -119,4 +119,4 @@ Lecture (25 Nov)
 
 ## Seminar slides with solutions:
 
-[Seminar 1](./seminars/seminar1-solved.pdf), [Seminar 2](./seminars/seminar2-solved.pdf), [Seminar 3](./seminars/seminar3-solved.pdf)
+[Seminar 1](./seminars/seminar1-solved.pdf), [Seminar 2](./seminars/seminar2-solved.pdf), [Seminar 3](./seminars/seminar3-solved.pdf), [Seminar 4](./seminars/seminar4-solved.pdf), [Seminar 5](./seminars/seminar5-solved.pdf)
