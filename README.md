@@ -14,6 +14,8 @@
 ***
 
 ### Announcements:
+- The recovery exam is scheduled 24 January, 9-11am, 40.063.
+- If you want to see your exam, come on Monday, 22 Dec, to my office 20.202. 
 - Perhaps you will find it useful: [mock test](./exams/mock-test.pdf) and last [year's exam](./exams/exam24.pdf). **Note**: This is not my exam and I included it only to give you more exercises to practice (there is a significant overlap with the material I discussed in class). This is not representative for the Thursday exam. I discusses the form of the exam in detail in the last lecture so follow these guidelines.
 - For basic matrix algebra review check Section 1.4 and accompanying exercises [here](https://rksmvv.ac.in/wp-content/uploads/2021/04/Gilbert_Strang_Linear_Algebra_and_Its_Applicatio_230928_225121.pdf). I also recommend taking the course "Linear Algebra and Dynamical Systems".
 - The midterm with answers can be found [here](./exams/midtermA_answers.pdf).
